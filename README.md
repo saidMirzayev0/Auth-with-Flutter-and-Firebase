@@ -5,7 +5,8 @@ Authentication pages I made with Flutter and Firebase
 This email and password authentication is implemented with many functionalities like, fluttertoast library, cloud firestore. In this tutorial, we have also implemented the Form validation for your email and password fields. 
 
 ## 
-![App UI](img/img.jpg)
+![App UI](![image](https://user-images.githubusercontent.com/86530457/149657424-bdd4f981-e93b-4c7d-8613-8b762619dfe4.png)
+)
  
  
  
