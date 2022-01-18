@@ -6,7 +6,11 @@ This email and password authentication is implemented with many functionalities 
 
 # Requirements
 
-• Replace android/app/google-services.json
+• Replace android/app/google-services.json <br>
+• Any Operating System (ie. MacOS X, Linux, Windows) <br>
+• Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc) <br>
+• A little knowledge of Dart and Flutter <br>
+• A brain to think 🤓🤓 <br>
 
 ## 
 ![Screenshot 2022-01-16 150702](https://user-images.githubusercontent.com/86530457/149657453-78806479-528d-457f-8039-77d086f37835.png),![Screenshot 2022-01-16 150725](https://user-images.githubusercontent.com/86530457/149657466-0805b72c-33e0-489d-a1f1-019873f8e1ac.png)
